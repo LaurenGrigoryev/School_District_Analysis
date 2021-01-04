@@ -15,13 +15,14 @@ The summary for Thomas High School is affected by the passing rate rising once t
 The replacement shows Thomas High School performing at a higher level than previously believed, which places its performance relative to other schools further up.
 
 ### * How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-  
-Scores by school spending
+#### Math and reading scores by grade
+The top five schools remain in the top five for reading and math scores. 
 
-Scores by school size
+#### Scores by school spending
 
-Scores by school type
+#### Scores by school size
+
+#### Scores by school type
 
 ## Summary
 Four major changes affected by replacing Thomas High School ninth grade score are that the overall passing rate for the district dropped, the overall passing rate for Thomas High School went up once the ninth grade scores were removed, and the passing rates of Thomas High School math score and the Thomas High School reading scores also went up.
