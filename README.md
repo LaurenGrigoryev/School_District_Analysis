@@ -6,7 +6,7 @@ The purpose of this analysis was to remove questionable reading and math scores 
 ### Results
 
 ## * How is the district summary affected?
-The district summary has a more accurate portrayal of percentage of students passing reading and math, but it showed a slightly lower passing rate. 
+The district summary has a more accurate portrayal of percentage of students passing reading and math, but it showed a slightly lower passing rate. For example, the overall passing rate that included scores from Thomas High School ninth graders was about [65.2%]
 
 ## * How is the school summary affected?
 A summary for Thomas High School is affected by  
